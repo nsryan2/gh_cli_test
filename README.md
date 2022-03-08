@@ -33,7 +33,8 @@ on your machine you'll be good to go.
 
 ## Creating an issue on the web
 `gh issue create --web`
-*this is a shortcut that will open your web browser to a new issue
+
+*This is a shortcut that will open your default web browser to a new issue*
 
 ## Create a new PR
 `gh pr create --assignee “npanczyk” --title "The new new new bug is fixed" --body "Everything works again"`
