@@ -25,6 +25,13 @@ on your machine you'll be good to go.
 ## Enter the repo
 `cd gh_cli_test`
 
+## Find out what PRs and Issues there are
+`gh pr list`
+
+or 
+
+`gh issue list`
+
 ## Checkout Greg’s PR
 `gh pr checkout 1`
 
