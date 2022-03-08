@@ -32,11 +32,17 @@ or
 
 `gh issue list`
 
+These commands generate a list of the issues or PRs that are active in the repo, and gives you their name, number, who made them, and what branch they are coming from in that person's fork.
+
 ## Checkout Greg’s PR
 `gh pr checkout 1`
 
+This command will make a branch with the contents of the PR on your machine so that you can play around with it.
+
 ## Create an issue 
 `gh issue create -a"@me" --title "Bug 4” --body "Nothing works"`
+
+This command will make an issue on the github repository.
 
 ## Creating an issue on the web
 `gh issue create --web`
@@ -45,6 +51,8 @@ or
 
 ## Create a new PR
 `gh pr create --assignee “npanczyk” --title "The new new new bug is fixed" --body "Everything works again"`
+
+This command will make a PR on the github repository.
 
 ## Create a new repo
 **Never make a new git repo inside of an existing git repo!!**
