@@ -52,3 +52,6 @@ or
 `cd ..` 
 
 `gh repo create final_demogit`
+
+## Other Commands
+This is by no means an exhaustive list of the commands you can do with the cli, you can find more in the [gh manual](https://cli.github.com/manual/gh)!
