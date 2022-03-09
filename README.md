@@ -54,7 +54,7 @@ To make a new PR, you need to be on a branch other than main, so first make a br
 
 `git checkout -b bug-fix`
 
-`gh pr create --assignee “npanczyk” --title "The new new new bug is fixed" --body "Everything works again"`
+`gh pr create --assignee “nsryan2” --title "The new new new bug is fixed" --body "Everything works again"`
 
 This command will make a PR on the github repository.
 
