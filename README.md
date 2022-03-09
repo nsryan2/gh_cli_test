@@ -50,6 +50,10 @@ This command will make an issue on the github repository.
 *This is a shortcut that will open your default web browser to a new issue*
 
 ## Create a new PR
+To make a new PR, you need to be on a branch other than main, so first make a branch
+
+`git checkout -b bug-fix`
+
 `gh pr create --assignee “npanczyk” --title "The new new new bug is fixed" --body "Everything works again"`
 
 This command will make a PR on the github repository.
