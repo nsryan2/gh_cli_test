@@ -3,7 +3,7 @@
 This repo is intended as a demonstration for common Github Command Line 
 Interface (CLI) uses, and covers how to install the CLI, checking out 
 someone else's PR, creating issues and PRs, making a new repo, and 
-cloneing an existing repo. This demo assumes some familiarity with git 
+cloning an existing repo. This demo assumes some familiarity with git 
 and github; If you are unfamiliar with these tools, we suggest following 
 the [git novice](https://swcarpentry.github.io/git-novice/) lesson from 
 Software Carpentry. **Do not fork or clone this repo before starting 
